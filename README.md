@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MiniChip1907
+- 👋 Hi, I’m Meena
 - 👀 I’m interested in Andorid Development & exploring Flutter
 - 🌱 I’m currently learning Jetpack Component
 - 💞️ I’m looking to collaborate on Innovative Solution
